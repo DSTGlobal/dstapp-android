@@ -44,7 +44,7 @@
         <preference name="android-compileSdkVersion" value="35" />
 
         <preference name="GradleVersion" value="8.4" />
-        <preference name="AndroidGradlePluginVersion" value="8.1.1" />
+        <preference name="AndroidGradlePluginVersion" value="8.2.0" />
 
         <preference name="LoadUrlTimeoutValue" value="70000" />
         <preference name="AndroidLaunchMode" value="singleTop" />
